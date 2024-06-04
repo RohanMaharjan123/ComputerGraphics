@@ -12,7 +12,7 @@ Class Load: **6 Hrs./ Week (Theory: 3 Hrs, Tutorial: 1 Hrs, Practical: 2 Hrs.)**
 
 <p align="justify">
 
-This course is designed to extend students’ knowledge and practice in Graphics hardware, software, and applications. It also provides the knowledge of data structures for graphics, graphics languages, and models for 2D and JD objects, clipping, hidden surface elimination, depth buffer, raster graphics, shading, and rendering.
+This course is designed to extend students’ knowledge and practice in Graphics hardware, software, and applications. It also provides the knowledge of data structures for graphics, graphics languages, and models for 2D and 3D objects, clipping, hidden surface elimination, depth buffer, raster graphics, shading, and rendering.
 
 </p>
 
@@ -20,7 +20,10 @@ This course is designed to extend students’ knowledge and practice in Graphics
 
 <b>Objectives:</b>
 
-Upon completion of this course, students should be able to I. Explain the basic principles of computer graphics. 2. Develop 2D and JD computer graphics applications. 3. Specify lighting and object materials in computer graphics programming.
+Upon completion of this course, students should be able to 
+I. Explain the basic principles of computer graphics. 
+2. Develop 2D and 3D computer graphics applications. 
+3. Specify lighting and object materials in computer graphics programming.
 
 </p>
 
